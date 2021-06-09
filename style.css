@@ -1,0 +1,104 @@
+body {
+	background: #FFFFFF;
+}
+
+
+
+.navbar    {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #000000;
+
+ 
+
+    }
+
+ 
+.frame {
+border: 5px solid black ;
+margin: 120px;
+padding: 20px;
+}
+body {background: white; text-align: center; }
+ul    {text-align: left; }
+
+
+
+.item {
+    display: flex;
+    justify-content: flex-end;
+    }
+
+
+.item {
+    margin: 10px 30px;
+    color: #FFFFFF;
+    font-family: courrier
+    }
+
+ 
+
+.item {
+    color: #FFFFFF;
+    font-family: courrier
+    }
+
+
+.Bouton {
+    
+    font-family: 'Lato', sans-serif;
+    font-weight: 100;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    border: solid 1px;
+    border-radius: 4px;
+    padding: 10px 30px;
+    background-color: #c23616
+    }
+
+
+.line-light {
+  height: 50px;
+  width: 20%;
+  background: #f8c291;
+}
+
+
+.line-medium {
+  height: 50px;
+  width: 30%;
+  background: #eb2f06;
+}
+
+
+.line-hard {
+  height: 50px;
+  width: 50%;
+  background: #e55039;
+}
+
+
+.line-transparent {
+  background: black;
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+ 
+
+
+
+
+
+
+
+.menu{ display: flex;}
+
+.logo-coca 	<img src="https://img.icons8.com/color/48/ffffff/coca-cola.png"/>
+
+
+
+
