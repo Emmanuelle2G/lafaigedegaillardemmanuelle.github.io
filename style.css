@@ -4,21 +4,30 @@ body {
 
 
 
-.navbar    {
+.my-navbar    {
     display: flex;
     justify-content: space-between;
     align-items: center;
     background: #000000;
 
+
+
  
 
     }
-
+.cadre {
+  background: #dfe6e9;
+  border: 3px solid #b2bec3;
+  margin: 20px 100px;
+  padding: 30px 70px;
+  border-radius: 5px;
+  }
  
 .frame {
 border: 5px solid black ;
 margin: 120px;
 padding: 20px;
+box-shadow: 10px 10px grey
 }
 body {background: white; text-align: center; }
 ul    {text-align: left; }
@@ -59,25 +68,7 @@ ul    {text-align: left; }
     }
 
 
-.line-light {
-  height: 50px;
-  width: 20%;
-  background: #f8c291;
-}
-
-
-.line-medium {
-  height: 50px;
-  width: 30%;
-  background: #eb2f06;
-}
-
-
-.line-hard {
-  height: 50px;
-  width: 50%;
-  background: #e55039;
-}
+.
 
 
 .line-transparent {
@@ -87,11 +78,32 @@ ul    {text-align: left; }
   justify-content: space-between;
   align-items: center;
 }
+
+.line-transparent {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.line-light {
+  height: 5px;
+  width: 20%;
+  background: #EE9CA7;
+}
+
+.line-medium {
+  height: 5px;
+  width: 30%;
+  background: #eb2f06;
+}
+
+.line-hard {
+  height: 5px;
+  width: 50%;
+  background: #e55039;
+}
  
-
-
-
-
 
 
 
